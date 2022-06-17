@@ -1,0 +1,27 @@
+Tüm oyunların assetleri hariç oynanış mekaniği,kodları,animasyonları,level dizaynları bana aittir.
+
+NaMen
+Büyük bir korku oyunu projesidir. Üniversitemizin tam olarak aynı halini ilk önce tasarladıktan sonra okulda geçen bir korku oyunu olacaktır.
+
+Gizli Altın
+İlk başladığım oyun projesiydi. Assetleri internetten alındığı için göze güzel gelmiyor olabilir ama bölümler ilerledikçe zorlaşan bölümler
+gizli yerleri buldukça artan keşfetme duygusuyla oyunucu kendisini oyunun içinde bulucak.
+
+MiniSqudiGame
+Can sıkıntısından internette dolaşırken aklıma gelen şeyi denemek istedim. Yarım saatte yaptım. Video ekleme gibi bazı özellikleri denediğim 
+bir proje oldu.
+
+Kingdom Maybe
+Sadece mapin tasarlandığı mobil esaslı RPG bi oyundur.
+
+ComPru
+Mobil için tasarlanmıştır. Şimdilik düşünülen ve geliştirlen 5bölümü vardır.(hepsi daha bitmedi) Ve ekstra sonsuza kadar devam eden bi sıralama 
+kısmı vardır. Oyuncular 5bölümü bitirdikten sonra bölümlerde olan tuzakların birleşmiş ve karışık halini sonsuz looptan oynayıp sıralamada en üst
+sıralara çıkmaya çalışıcaklardır.
+
+Bilişim Vadisi
+Bilişim vadisinde ekibimle sıfırdan 3günde yaptığım oyunun kendi tasarladığım sahnesini koydum. Bu bölümde bossa karşı savaşıyoruz. 
+Videoda hızlı bir halini görüyorsunuz. 4kısımdan oluşuyor. Bölümün oynanma süresi 12dk fakat zorluğuyla birlikte uzun sürelerde geçilecek bir bölüm.
+
+Bu oyunun kodları da tamamen benimdir . Yazdığım en uzun ve geniş kapsamlı kodlardır. Oyun için kod bilgim fazladır. Ama eksik yanları var. 
+Severek kod yazdığım için gerçekten çok kolay ve hızlı öğreniyorum. 
